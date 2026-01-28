@@ -1,0 +1,6 @@
+print("X                           X")
+print("X                           X")
+print("X      XXXXXXXXXXXXXX       X")
+print("XXXXX  X            X  XXXXXX")
+print("X   X  X            X  X    X")
+print("X   X  X            X  X    X")
